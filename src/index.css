@@ -16,16 +16,16 @@ code {
 }
 
 .title {
-background-color: #7662B1;
-width: 9vw;
-border-radius: 7px;
-margin: 1em;
-display: flex;
-justify-content: space-around;
-align-items: center;
+  background-color: #7662B1;
+  width: 9vw;
+  border-radius: 7px;
+  margin: 1em;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.header-section{
+.header-section {
   background-color: #7662B1;
   width: 42vw;
   height: 5vh;
@@ -38,13 +38,14 @@ align-items: center;
 }
 
 a {
-   
-    color: white; 
-    text-decoration: none; 
-    font-size: 18px;
+
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
 
 }
 
 .section-view {
+  background-color: #7662B1;
 
 }
